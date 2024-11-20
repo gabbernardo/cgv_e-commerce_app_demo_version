@@ -1,6 +1,6 @@
 # CGV E-Commerce App
 
-![Screen_Recording_20241120-152918-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f1fa2eef-e0a5-4016-a2bb-097ba3cf31cf)
+![Screen_Recording_20241120-152918-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/c00cee1f-d742-46f8-a22e-159bb33a7020)
 
 
 **CGV** is a sleek and minimalist e-commerce application built with **Flutter**, leveraging **dummyjson.com** as the data source. The app is designed with a focus on seamless navigation, performance, and a smooth user experience. The development follows best practices with **Clean Architecture**, **Test Driven Development (TDD)**, and is equipped with advanced features like **BLoC** for state management, **Go_Router** for routing, and **Dio** for HTTP requests.
