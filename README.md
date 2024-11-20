@@ -30,4 +30,6 @@
 ### Animations
 - **Lottie**: Used for smooth animations, enhancing the overall user experience, especially on the splash screen.
 
----
+## Contact
+
+For any inquiries or feedback, please reach out to **[gabbernardo20@gmail.com]**.
